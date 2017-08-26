@@ -1,5 +1,7 @@
 # When Reviewing a Pull Request
 
+The reviewer should always ask themselves the following:
+
 1. Do I understand the goal of this change?
 2. Have I looked at every line of the diff between the branch and master?
 3. Have I used the code locally?
