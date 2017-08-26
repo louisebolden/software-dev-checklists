@@ -1,6 +1,8 @@
 # Software Development Checklists
 
-From the excellent RailsConf 2017 talk [Managing Unmanageable Complexity](http://confreaks.tv/videos/railsconf2017-managing-unmanageable-complexity) by Patrick Joyce.
+From the excellent RailsConf 2017 talk [Managing Unmanageable Complexity](http://confreaks.tv/videos/railsconf2017-managing-unmanageable-complexity), given by Patrick Joyce.
+
+![why checklists work](https://github.com/louiseswift/software-dev-checklists/blob/master/Screenshot%202017-08-26%20at%2014.21.44.png)
 
 **Checklists:**
 
