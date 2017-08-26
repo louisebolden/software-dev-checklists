@@ -1,5 +1,7 @@
 # Before Submitting a Pull Request
 
+The submitter should always ask themselves the following:
+
 1. Have you looked at every line of the diff between your branch and master?
 2. Is there any code in this pull request that is not related to the overall intended change?
 3. Have I structured the commits to make the reviewer's job easy?
